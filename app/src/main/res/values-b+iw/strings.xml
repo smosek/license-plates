@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">לוחיות רישוי</string>
+    <string name="button_send">שלח</string>
+    <string name="button_backup">גיבוי</string>
+    <string name="button_restore">שחזור</string>
+</resources>
